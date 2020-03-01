@@ -21,7 +21,7 @@
 + **[Airbnb](https://github.com/airbnb/css)**: A mostly reasonable approach to CSS and Sass by Airbnb.
 + **[Dropbox](https://github.com/dropbox/css-style-guide)**: Dropbox (S)CSS Style Guide.
 
-|                                                                                   | React Components | CSS Components | Designers Kit |                                   GitHuB \*                                   |
+|                                                                                   | React Components | CSS Components | Designers Kit |                                   GitHub                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :--------------------------------------------------------------------------------: |
 | [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍  
 
