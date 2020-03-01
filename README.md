@@ -1,17 +1,19 @@
-# UI Styleguides
-
-Style guides define a visual language to your brand by promoting consistency across your products. During development they are essential to maintain code quality, best practices, and improve productivity by having all the patterns in one place for quick reference.
-Effective style guides are tailored to specific needs. This reference page lists resources that have helped when writting my own components.
+# Design Systems
 
 ---------------------------------------------------------
 
-#### CSS StyleGuides
+#### CSS 
++ **[Primier css components](https://github.com/primer/css)**: The CSS implementation of GitHub's Primer Design System.
 
-+ **[Airbnb](https://github.com/airbnb/css)**: A mostly reasonable approach to CSS and Sass by Airbnb.
-+ **[Dropbox](https://github.com/dropbox/css-style-guide)**: Dropbox (S)CSS Style Guide.
-+ **[Spatie](https://github.com/spatie/css-styleguide)**: Spatie is a webdesign agency in Antwerp, Belgium. 
+#### React 
++ **[Primier react components](https://github.com/primer/components)**: React components for the Primer Design System.
 
-#### Favorite Styleguides
+#### React TS
++ **[Ant Design](https://github.com/ant-design/ant-design)**: An enterprise-class UI design language and React UI library.
++ **[Reach ui](https://github.com/reach/reach-ui)**: Reach UI is a React-based design system.
+
+
+#### 
 + **[Atlassian](https://atlassian.design/)**
 + **[Tachyons](http://tachyons.io/)**
 + **[Ant Design](https://ant.design/)**
@@ -22,6 +24,9 @@ Effective style guides are tailored to specific needs. This reference page lists
 + **[Opattern](https://ux.opower.com/opattern/buttons.html)**
 + **[uSwitch](https://ustyle.guide/)**
 + **[Uniform](http://uniform.hudl.com/)**
++ **[Airbnb](https://github.com/airbnb/css)**: A mostly reasonable approach to CSS and Sass by Airbnb.
++ **[Dropbox](https://github.com/dropbox/css-style-guide)**: Dropbox (S)CSS Style Guide.
++ **[Spatie](https://github.com/spatie/css-styleguide)**: Spatie is a webdesign agency in Antwerp, Belgium. 
 
 
 
