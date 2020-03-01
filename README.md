@@ -8,12 +8,13 @@
 #### React 
 + **[Primier react components](https://github.com/primer/components)**: React components for the Primer Design System.
 
-#### React TS
+#### React TypeScript
++ **[Polaris](https://github.com/Shopify/polaris-react)**: Polaris Shopify React component library.
 + **[Ant Design](https://github.com/ant-design/ant-design)**: An enterprise-class UI design language and React UI library.
 + **[Reach ui](https://github.com/reach/reach-ui)**: Reach UI is a React-based design system.
 
 
-#### 
+#### Design Systems
 + **[Atlassian](https://atlassian.design/)**
 + **[Tachyons](http://tachyons.io/)**
 + **[Ant Design](https://ant.design/)**
