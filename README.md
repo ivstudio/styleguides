@@ -8,6 +8,8 @@
 #### React 
 + **[Plasma](https://github.com/wework/plasma)**: Plasma is a design system by WeWork.
 + **[Primier react components](https://github.com/primer/components)**: React components for the Primer Design System.
++ **[Styled System](https://github.com/styled-system/styled-system)**: Responsive, theme-based style props for building design systems with React.
+
 
 #### React TypeScript
 + **[Polaris](https://github.com/Shopify/polaris-react)**: Polaris Shopify React component library.
